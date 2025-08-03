@@ -28,7 +28,6 @@ GMBA_Inventory_v2.0_standard_300.shp
 
 
 3. Make sure you have the required R packages installed:
-```r
 install.packages(c("sf", "ggplot2", "dplyr", "rnaturalearth", "elevatr", "raster"))
 Open the script tian_shan_map.R and update the file path to your local directory:
 
